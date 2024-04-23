@@ -1,4 +1,4 @@
-# PocketClosetExpress
+# Fashion Find
 
-PocketCloset - Express is owned by Cole Rasmussen
-if you have any questions about PocketCloset - Express please email rasmussenhighway@gmail.com
+Fashion Find is owned by Cole Rasmussen
+if you have any questions about Fashion Find please email rasmussenhighway@gmail.com
